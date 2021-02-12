@@ -1,0 +1,15 @@
+.gamebox {
+  height: 95vh;
+  background-color: whitesmoke;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+.wrap {
+  margin: auto auto;
+  max-width: 600px;
+  height: auto;
+  background-color: yellow;
+  width: 100%;
+  min-height: 300px;
+}

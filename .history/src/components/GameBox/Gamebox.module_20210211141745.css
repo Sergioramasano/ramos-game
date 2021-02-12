@@ -1,0 +1,6 @@
+.game-box {
+  height: 100%;
+  background-color: whitesmoke;
+  padding: 2rem;
+  box-sizing: border-box;
+}
